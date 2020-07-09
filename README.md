@@ -1,5 +1,5 @@
 <h2>Hi ~</h2>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cbbfcd.cbbfcd)
+<img src='https://visitor-badge.glitch.me/badge?page_id=cbbfcd.cbbfcd'/>
 
 <!--
 **cbbfcd/cbbfcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
