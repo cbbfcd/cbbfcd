@@ -1,5 +1,7 @@
 <h2>Hi ~</h2>
 
+Dream rust actual javascript 😂
+
 ---
 
 <img src='https://visitor-badge.glitch.me/badge?page_id=cbbfcd.cbbfcd'/>
