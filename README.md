@@ -1,8 +1,11 @@
 <h2>Hi ~</h2>
+
+---
+
 <img src='https://visitor-badge.glitch.me/badge?page_id=cbbfcd.cbbfcd'/>
 
 
-[![UmDbGt.md.png](https://s1.ax1x.com/2020/07/09/UmDbGt.md.png)](https://imgchr.com/i/UmDbGt)
+![波比小金刚's github stats](https://github-readme-stats.vercel.app/api?username=cbbfcd&show_icons=true&theme=dracula)
 
 <!--
 **cbbfcd/cbbfcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
