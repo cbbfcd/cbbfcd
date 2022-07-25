@@ -1,6 +1,6 @@
 <h2>Hi ~</h2>
 
-Dream rust actual javascript 😂
+t/javascript at day, rustacean at dream.😂
 
 ---
 
